@@ -1,0 +1,1 @@
+This is a project for learing how to create an API. This project uses FastAPI. Each request on the URL of the API returns a JSON, using what's in the URL.
